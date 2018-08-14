@@ -35,7 +35,7 @@ The goal of packages-report is to FINISH THIS SENTENCE.
 ## load data/add-on-packages-freqtable.csv here in this chunk
 ```
 
-Make some changes
+Make some changes on beta
 
 I have `FILL THIS IN!!!` add-on packages installed.
 
